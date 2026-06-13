@@ -1,0 +1,6 @@
+@logiMarket.Notifications_HostAddress = http://localhost:5118
+
+GET {{logiMarket.Notifications_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

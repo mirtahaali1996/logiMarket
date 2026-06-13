@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="logiMarket.Notifications/logiMarket.Notifications.csproj" />
+  <Project Path="logiMarket.Orders/logiMarket.Orders.csproj" />
+  <Project Path="LogiMarket.Shared/LogiMarket.Shared.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+@LogiMarket.Shared_HostAddress = http://localhost:5122
+
+GET {{LogiMarket.Shared_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

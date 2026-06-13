@@ -1,0 +1,6 @@
+@logiMarket.Orders_HostAddress = http://localhost:5089
+
+GET {{logiMarket.Orders_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
